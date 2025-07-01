@@ -19,7 +19,7 @@ Soy estudiante de Ingeniería en Software en la UTT, apasionada por la tecnolog�
 - https://gems8.github.io/port_gems/
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=gems8&show_icons=true&theme=radical)
 
 ## 📫 Contáctame
 - Email: gemitacb8@gmail.com
